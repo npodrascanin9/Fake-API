@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<body>
+  <pre id="json"></pre>
+
+  <script>
+    var data = [
+        {
+            'id': 1,
+            'brand': 'bg-9999-ds',
+            'type': 'car'
+        },
+        {
+            'id': 2,
+            'brand': 'ck-9999-tr',
+            'type': 'truck'
+        }
+    ];
+
+    document.getElementById("json").textContent = JSON.stringify(data, undefined, 2);
+
+  </script>
+
+</body>
+</html>
