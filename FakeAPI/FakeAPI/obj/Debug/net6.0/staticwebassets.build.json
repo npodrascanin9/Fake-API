@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "7fxm7NbiubWKsPWyRn5IUQDfHIyc1P8d+uDHACVohT8=",
+  "Source": "FakeAPI",
+  "BasePath": "_content/FakeAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
